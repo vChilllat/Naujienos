@@ -1,1 +1,2 @@
 # Naujienos
+Kažkas naujo!
